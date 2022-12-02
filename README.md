@@ -1,4 +1,4 @@
-# Maven_Pizzas_export_pdf
+# Maven_Pizzas_export_excel
 Este programa hará un informe sobre los ficheros de la pizzería Maven, limpiará los datos y hará una recomendación de compra de ingredientes para cada semana.
 ### Archivos necesitados
 - 'data_dictionary.csv': archivo csv que explican cada columna de los diferentes csvs.
